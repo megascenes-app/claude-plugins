@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-logo": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/logo/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-tattoo": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/tattoo/mcp"
+    }
+  }
+}

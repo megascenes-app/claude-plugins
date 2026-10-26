@@ -1,0 +1,374 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "megascenes",
+  "owner": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "metadata": {
+    "description": "Images, videos, logos, voice-overs, music and design assets for Claude, made in your MegaScenes account with the price shown before every run.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "megascenes",
+      "source": "./megascenes",
+      "description": "Images, videos, voice-overs and music from 140+ models (Veo, Kling, Seedance, Nano Banana, ElevenLabs) in one place, with the exact price before every run. Generated in your MegaScenes account.",
+      "category": "media",
+      "keywords": [
+        "image",
+        "video",
+        "audio",
+        "studio",
+        "mcp"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "image",
+      "source": "./image",
+      "description": "Create images from a description: photos, pictures, illustrations, art, characters and scenes in any aspect ratio. Generated in seconds and saved to your MegaScenes library.",
+      "category": "media",
+      "keywords": [
+        "image",
+        "picture",
+        "illustration",
+        "art",
+        "photo"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "video",
+      "source": "./video",
+      "description": "Create short video clips from a description of the scene and camera: reels, TikToks, shorts, ads, intros and stories. Generated with Kling, Veo, Seedance, Wan and more.",
+      "category": "media",
+      "keywords": [
+        "video",
+        "clip",
+        "reels",
+        "shorts",
+        "tiktok"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "logo-maker",
+      "source": "./logo-maker",
+      "description": "Logo maker: design logo concepts from your brand name, business, style and colors. Up to four options per run, generated as image files you can download.",
+      "category": "media",
+      "keywords": [
+        "logo",
+        "logo maker",
+        "brand",
+        "branding",
+        "design"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "image-to-video",
+      "source": "./image-to-video",
+      "description": "Image to video: animate a photo or picture from your MegaScenes library into a short clip with the motion and camera move you describe, generated in a few minutes.",
+      "category": "media",
+      "keywords": [
+        "image to video",
+        "animate",
+        "photo animation",
+        "motion",
+        "video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "text-to-speech",
+      "source": "./text-to-speech",
+      "description": "Text to speech: turn a script into natural voice-overs and narration in many voices and languages, generated as audio files for videos, ads, podcasts and audiobooks.",
+      "category": "media",
+      "keywords": [
+        "text to speech",
+        "voiceover",
+        "voice",
+        "narration",
+        "tts"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "music",
+      "source": "./music",
+      "description": "Create original background music and soundtracks from a description of genre, mood, instruments and tempo, generated as audio files for videos, podcasts, games and ads.",
+      "category": "media",
+      "keywords": [
+        "music",
+        "background music",
+        "soundtrack",
+        "instrumental",
+        "audio"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "sound-effects",
+      "source": "./sound-effects",
+      "description": "Sound effects generator: describe a whoosh, footsteps, rain ambience, foley or a UI click and get the SFX file generated in seconds, for videos, games, apps and podcasts.",
+      "category": "media",
+      "keywords": [
+        "sound effects",
+        "sfx",
+        "foley",
+        "ambience",
+        "audio"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "image-upscaler",
+      "source": "./image-upscaler",
+      "description": "Image upscaler: enlarge, enhance and sharpen an image from your MegaScenes library to 2x or 4x for print, wallpapers and 4K screens. The larger file is generated in seconds.",
+      "category": "media",
+      "keywords": [
+        "image upscaler",
+        "upscale",
+        "enhance",
+        "4k",
+        "image quality"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "poster",
+      "source": "./poster",
+      "description": "Poster and flyer maker: event posters, flyers, sale announcements and menus generated with your headline and details spelled out correctly.",
+      "category": "media",
+      "keywords": [
+        "poster",
+        "flyer",
+        "poster maker",
+        "event",
+        "design"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "sticker-maker",
+      "source": "./sticker-maker",
+      "description": "Sticker maker: die-cut stickers of characters, pets, quotes and logos with a white border, kawaii or retro, generated ready to print or share.",
+      "category": "media",
+      "keywords": [
+        "sticker",
+        "sticker maker",
+        "die cut",
+        "kawaii",
+        "print"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "emoji-maker",
+      "source": "./emoji-maker",
+      "description": "Emoji maker: custom emoji generated from your description in the glossy emoji look, for Slack, Discord and chats.",
+      "category": "media",
+      "keywords": [
+        "emoji",
+        "emoji maker",
+        "slack emoji",
+        "discord",
+        "icon"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "pixel-art-maker",
+      "source": "./pixel-art-maker",
+      "description": "Pixel art maker: 8-bit, 16-bit and isometric pixel art, game sprites, items and retro scenes generated from your description.",
+      "category": "media",
+      "keywords": [
+        "pixel art",
+        "sprite",
+        "8-bit",
+        "game asset",
+        "retro"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "tattoo-generator",
+      "source": "./tattoo-generator",
+      "description": "Tattoo generator: your idea turned into clean tattoo flash art in fine line, traditional, blackwork, Japanese or geometric style, generated as designs to take to your artist.",
+      "category": "media",
+      "keywords": [
+        "tattoo",
+        "tattoo design",
+        "tattoo generator",
+        "flash",
+        "ink"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "character-creator",
+      "source": "./character-creator",
+      "description": "Character creator: original characters for stories, games, comics and OCs, generated as portraits, full body art or turnaround sheets.",
+      "category": "media",
+      "keywords": [
+        "character",
+        "character design",
+        "oc",
+        "game",
+        "comic"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "avatar-maker",
+      "source": "./avatar-maker",
+      "description": "Avatar maker: profile picture avatars (PFP) generated from a description in 3D cartoon, anime, flat, comic or pixel styles.",
+      "category": "media",
+      "keywords": [
+        "avatar",
+        "profile picture",
+        "pfp",
+        "cartoon",
+        "anime"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "meme",
+      "source": "./meme",
+      "description": "Meme generator: original meme images about any situation, generated with your top and bottom captions spelled out.",
+      "category": "media",
+      "keywords": [
+        "meme",
+        "meme generator",
+        "funny",
+        "caption",
+        "humor"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "thumbnail-maker",
+      "source": "./thumbnail-maker",
+      "description": "Thumbnail maker: eye-catching 16:9 YouTube thumbnails generated from your video title, with bold text on the image.",
+      "category": "media",
+      "keywords": [
+        "thumbnail",
+        "youtube thumbnail",
+        "youtube",
+        "creator",
+        "clickbait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "coloring-page-maker",
+      "source": "./coloring-page-maker",
+      "description": "Coloring page maker: printable coloring pages of any subject, simple for kids or detailed mandalas for adults, generated ready to print.",
+      "category": "media",
+      "keywords": [
+        "coloring page",
+        "coloring",
+        "printable",
+        "kids",
+        "mandala"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "song",
+      "source": "./song",
+      "description": "Song maker: an original song with vocals, generated from a theme or your own lyrics in the genre and mood you choose.",
+      "category": "media",
+      "keywords": [
+        "song",
+        "song maker",
+        "lyrics",
+        "music",
+        "vocals"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "beat",
+      "source": "./beat",
+      "description": "Beat maker: instrumental hip hop, trap, lo-fi, drill, afrobeats and house beats generated at the tempo and mood you choose.",
+      "category": "media",
+      "keywords": [
+        "beat",
+        "beat maker",
+        "instrumental",
+        "hip hop",
+        "trap"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "book-cover-maker",
+      "source": "./book-cover-maker",
+      "description": "Book cover maker: covers for novels, ebooks and self-published KDP books, generated with your title and author name spelled out.",
+      "category": "media",
+      "keywords": [
+        "book cover",
+        "ebook",
+        "self publishing",
+        "kdp",
+        "novel"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "album-cover-maker",
+      "source": "./album-cover-maker",
+      "description": "Album cover maker: square cover art for albums, EPs and singles, generated with the artist name and title, ready for Spotify and other streaming platforms.",
+      "category": "media",
+      "keywords": [
+        "album cover",
+        "cover art",
+        "single",
+        "spotify",
+        "music"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "invitation-maker",
+      "source": "./invitation-maker",
+      "description": "Invitation maker: wedding, birthday, baby shower and party invitations and greeting cards, generated with your details spelled out.",
+      "category": "media",
+      "keywords": [
+        "invitation",
+        "wedding invitation",
+        "birthday",
+        "greeting card",
+        "party"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    }
+  ]
+}

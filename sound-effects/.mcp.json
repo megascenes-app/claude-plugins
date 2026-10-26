@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-sound-effects": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/sound-effects/mcp"
+    }
+  }
+}

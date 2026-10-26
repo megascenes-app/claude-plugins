@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-poster": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/poster/mcp"
+    }
+  }
+}

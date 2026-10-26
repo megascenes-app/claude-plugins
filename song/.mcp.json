@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-song": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/song/mcp"
+    }
+  }
+}

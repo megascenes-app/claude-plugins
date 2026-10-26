@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-pixel-art": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/pixel-art/mcp"
+    }
+  }
+}

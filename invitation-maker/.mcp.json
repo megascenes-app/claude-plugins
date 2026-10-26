@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-invitation": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/invitation/mcp"
+    }
+  }
+}

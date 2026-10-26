@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-sticker": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/sticker/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-book-cover": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/book-cover/mcp"
+    }
+  }
+}

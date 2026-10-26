@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "tattoo-generator",
+  "displayName": "Tattoo Generator",
+  "version": "1.0.0",
+  "description": "Tattoo generator: your idea turned into clean tattoo flash art in fine line, traditional, blackwork, Japanese or geometric style, generated as designs to take to your artist.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "tattoo",
+    "tattoo design",
+    "tattoo generator",
+    "flash",
+    "ink"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

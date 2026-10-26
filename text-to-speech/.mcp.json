@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-voiceover": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/voiceover/mcp"
+    }
+  }
+}

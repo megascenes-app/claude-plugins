@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-album-cover": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/album-cover/mcp"
+    }
+  }
+}

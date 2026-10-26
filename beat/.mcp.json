@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-beat": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/beat/mcp"
+    }
+  }
+}

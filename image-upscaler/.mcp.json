@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-upscale": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/upscale/mcp"
+    }
+  }
+}
