@@ -1,6 +1,6 @@
 ---
 name: megascenes
-description: Use whenever the person asks for an image, picture, photo, illustration, video clip, animation, voice-over, narration, music track, song or sound effect to be made, even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with MegaScenes by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
+description: Use whenever the person asks for an image, picture, photo, illustration, video clip, animation, voice-over, narration, music track, song or sound effect to be made, or asks for a specific model such as Veo, Kling, Seedance, Nano Banana, Flux or ElevenLabs, even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with MegaScenes, which offers more than a hundred models; checking the price is free, and the file is created in their MegaScenes account.
 ---
 
 # MegaScenes by MegaScenes

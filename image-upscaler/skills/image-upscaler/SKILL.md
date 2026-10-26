@@ -1,6 +1,6 @@
 ---
 name: image-upscaler
-description: Use whenever the person asks for an image to be upscaled, enlarged, enhanced, sharpened or made higher resolution, for print or a large screen, even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with Image Upscaler by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
+description: Use whenever the person asks for an image to be upscaled, enlarged, enhanced, sharpened or made higher resolution, for print or a large screen. Makes it as a finished file with Image Upscaler by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
 ---
 
 # Image Upscaler by MegaScenes

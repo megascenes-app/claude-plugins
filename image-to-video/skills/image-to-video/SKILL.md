@@ -1,6 +1,6 @@
 ---
 name: image-to-video
-description: Use whenever the person asks for a photo, picture or image to be animated or brought to life, or turned into a moving clip, even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with Image to Video by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
+description: Use whenever the person asks for a photo, picture or image to be animated or brought to life, or turned into a moving clip. Makes it as a finished file with Image to Video by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
 ---
 
 # Image to Video by MegaScenes

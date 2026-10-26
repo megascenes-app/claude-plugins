@@ -1,6 +1,6 @@
 ---
 name: coloring-page-maker
-description: Use whenever the person asks for a coloring page, coloring sheet, line art for kids or a mandala to color, or a picture of something for kids (this plugin turns it into a printable coloring page), even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with Coloring Page Maker by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
+description: Use whenever the person asks for a coloring page, coloring sheet, line art to color, a picture to color for kids or a mandala to color, even one you could draw yourself: they added this plugin to get it as a finished file made by MegaScenes models. Makes it with Coloring Page Maker by MegaScenes; checking the price is free, and the file is created in their MegaScenes account.
 ---
 
 # Coloring Page Maker by MegaScenes
