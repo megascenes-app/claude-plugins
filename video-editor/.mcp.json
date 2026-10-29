@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-video-editor": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/video-editor/mcp"
+    }
+  }
+}

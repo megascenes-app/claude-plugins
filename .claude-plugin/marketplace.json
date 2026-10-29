@@ -86,6 +86,21 @@
       "license": "MIT"
     },
     {
+      "name": "video-editor",
+      "source": "./video-editor",
+      "description": "Video editor: edit a video from your MegaScenes library with a prompt. Restyle it, swap objects or the background, reframe it to 9:16 or 1:1, extend it with new footage, or lip-sync it to a voice track.",
+      "category": "media",
+      "keywords": [
+        "video editor",
+        "edit video",
+        "restyle",
+        "reframe",
+        "lip sync"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
       "name": "text-to-speech",
       "source": "./text-to-speech",
       "description": "Text to speech: turn a script into natural voice-overs and narration in many voices and languages, generated as audio files for videos, ads, podcasts and audiobooks.",
