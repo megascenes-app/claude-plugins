@@ -9,6 +9,7 @@ Images, videos, logos, voice-overs, music and design assets for Claude, made in 
 | [Video](./video) | Create short video clips from a description of the scene and camera: reels, TikToks, shorts, ads, intros and stories. Generated with Kling, Veo, Seedance, Wan and more. |
 | [Logo Maker](./logo-maker) | Logo maker: design logo concepts from your brand name, business, style and colors. Up to four options per run, generated as image files you can download. |
 | [Image to Video](./image-to-video) | Image to video: animate a photo or picture from your MegaScenes library into a short clip with the motion and camera move you describe, generated in a few minutes. |
+| [Video Editor](./video-editor) | Video editor: edit a video from your MegaScenes library with a prompt. Restyle it, swap objects or the background, reframe it to 9:16 or 1:1, extend it with new footage, or lip-sync it to a voice track. |
 | [Text to Speech](./text-to-speech) | Text to speech: turn a script into natural voice-overs and narration in many voices and languages, generated as audio files for videos, ads, podcasts and audiobooks. |
 | [Music](./music) | Create original background music and soundtracks from a description of genre, mood, instruments and tempo, generated as audio files for videos, podcasts, games and ads. |
 | [Sound Effects](./sound-effects) | Sound effects generator: describe a whoosh, footsteps, rain ambience, foley or a UI click and get the SFX file generated in seconds, for videos, games, apps and podcasts. |
