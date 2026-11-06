@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "trading-cards",
+  "displayName": "Trading Cards",
+  "version": "1.0.0",
+  "description": "Trading cards: design a custom trading card with your card name, stats and artwork, from a description or a photo in your MegaScenes library. Creatures, heroes, pets and game cards.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "trading cards",
+    "trading card",
+    "card maker",
+    "custom card",
+    "game card"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

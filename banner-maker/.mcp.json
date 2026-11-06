@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-banner-maker": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/banner-maker/mcp"
+    }
+  }
+}

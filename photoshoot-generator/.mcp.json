@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-photoshoot": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/photoshoot/mcp"
+    }
+  }
+}

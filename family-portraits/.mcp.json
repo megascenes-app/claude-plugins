@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-family-portrait": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/family-portrait/mcp"
+    }
+  }
+}

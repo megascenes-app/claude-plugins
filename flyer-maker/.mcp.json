@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-flyer-maker": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/flyer-maker/mcp"
+    }
+  }
+}

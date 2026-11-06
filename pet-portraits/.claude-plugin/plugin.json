@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "pet-portraits",
+  "displayName": "Pet Portraits",
+  "version": "1.0.0",
+  "description": "Pet portraits: turn a photo of your pet from your MegaScenes library into a regal, Renaissance, watercolor or cartoon portrait, keeping its breed, colors and markings.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "pet portrait",
+    "dog portrait",
+    "cat portrait",
+    "pet painting",
+    "custom pet portrait"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

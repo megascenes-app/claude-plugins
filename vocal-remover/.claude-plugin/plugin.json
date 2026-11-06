@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "vocal-remover",
+  "displayName": "Vocal Remover",
+  "version": "1.0.0",
+  "description": "Vocal remover: split a song from your MegaScenes library into the instrumental and the vocals, two files for karaoke, covers, practice and remixes, or into six stems.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "vocal remover",
+    "remove vocals",
+    "karaoke",
+    "instrumental",
+    "acapella"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

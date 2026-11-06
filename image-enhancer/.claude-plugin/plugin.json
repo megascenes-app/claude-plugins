@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "image-enhancer",
+  "displayName": "Image Enhancer",
+  "version": "1.0.0",
+  "description": "Image enhancer: sharpen and restore a blurry, noisy or old photo from your MegaScenes library, with cleaner detail, less grain and restored faces, at a higher resolution.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "image enhancer",
+    "photo enhancer",
+    "unblur image",
+    "enhance photo",
+    "sharpen image"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

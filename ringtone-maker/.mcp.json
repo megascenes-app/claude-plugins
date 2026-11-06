@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-ringtone": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/ringtone/mcp"
+    }
+  }
+}

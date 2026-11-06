@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-business-card": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/business-card/mcp"
+    }
+  }
+}

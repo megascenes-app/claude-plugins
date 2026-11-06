@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-background-remover": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/background-remover/mcp"
+    }
+  }
+}

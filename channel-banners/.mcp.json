@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-youtube-banner": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/youtube-banner/mcp"
+    }
+  }
+}

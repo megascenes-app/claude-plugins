@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-3d-animation": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/3d-animation/mcp"
+    }
+  }
+}

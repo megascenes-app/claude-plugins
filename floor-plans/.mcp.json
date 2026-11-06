@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-floor-plan": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/floor-plan/mcp"
+    }
+  }
+}

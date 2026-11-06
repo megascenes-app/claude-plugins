@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "collage-maker",
+  "displayName": "Collage Maker",
+  "version": "1.0.0",
+  "description": "Collage maker: arrange 2 to 14 photos from your MegaScenes library into one collage in the layout and style you describe, for birthdays, trips, mood boards and social posts.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "collage maker",
+    "photo collage",
+    "collage",
+    "picture collage",
+    "photo grid"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

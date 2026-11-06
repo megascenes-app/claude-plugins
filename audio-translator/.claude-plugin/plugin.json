@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "audio-translator",
+  "displayName": "Audio Translator",
+  "version": "1.0.0",
+  "description": "Audio translator: translate a recording from your MegaScenes library into another language, spoken in the voices of the original speakers. Podcasts, voice-overs, lessons, up to 8 minutes.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "audio translator",
+    "voice translator",
+    "translate audio",
+    "dubbing",
+    "translate podcast"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

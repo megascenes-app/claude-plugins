@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-landscape-design": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/landscape-design/mcp"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "floor-plans",
+  "displayName": "Floor Plans",
+  "version": "1.0.0",
+  "description": "Floor plans: draw an illustrative floor plan of a home, apartment or office from the rooms you list, or redraw a sketch from your MegaScenes library. A visual guide, not a construction drawing.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "floor plans",
+    "floor plan",
+    "floor plan maker",
+    "home layout",
+    "apartment layout"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

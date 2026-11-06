@@ -384,6 +384,453 @@
       ],
       "homepage": "https://megascenes.com/connectors#claude",
       "license": "MIT"
+    },
+    {
+      "name": "photo-editor",
+      "source": "./photo-editor",
+      "description": "Photo editor: edit a photo or image from your MegaScenes library by describing the change. Swap the background, remove or add objects, change colors or style, retouch, or combine images.",
+      "category": "media",
+      "keywords": [
+        "photo editor",
+        "image editor",
+        "edit photo",
+        "background changer",
+        "object remover"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "background-remover",
+      "source": "./background-remover",
+      "description": "Background remover: cut the subject out of a photo or image from your MegaScenes library and get it on a transparent PNG, for product shots, stickers, profile pictures and designs.",
+      "category": "media",
+      "keywords": [
+        "background remover",
+        "remove background",
+        "transparent background",
+        "cutout",
+        "png"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "business-card-maker",
+      "source": "./business-card-maker",
+      "description": "Business card maker: design the front of a business card with your name, job title and contact details spelled out, in the look you want, ready to print or share.",
+      "category": "media",
+      "keywords": [
+        "business card maker",
+        "business card",
+        "business cards",
+        "card design",
+        "contact card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "interior-design",
+      "source": "./interior-design",
+      "description": "Interior design: redesign a room in the style you want, from a photo of the room in your MegaScenes library or from a description. Living rooms, bedrooms, kitchens, bathrooms and offices.",
+      "category": "media",
+      "keywords": [
+        "interior design",
+        "room design",
+        "room redesign",
+        "home decor",
+        "virtual staging"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "floor-plans",
+      "source": "./floor-plans",
+      "description": "Floor plans: draw an illustrative floor plan of a home, apartment or office from the rooms you list, or redraw a sketch from your MegaScenes library. A visual guide, not a construction drawing.",
+      "category": "media",
+      "keywords": [
+        "floor plans",
+        "floor plan",
+        "floor plan maker",
+        "home layout",
+        "apartment layout"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "trading-cards",
+      "source": "./trading-cards",
+      "description": "Trading cards: design a custom trading card with your card name, stats and artwork, from a description or a photo in your MegaScenes library. Creatures, heroes, pets and game cards.",
+      "category": "media",
+      "keywords": [
+        "trading cards",
+        "trading card",
+        "card maker",
+        "custom card",
+        "game card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "voice-changer",
+      "source": "./voice-changer",
+      "description": "Voice changer: change the voice of a recording from your MegaScenes library to one of the ready-made voices, keeping its words, timing and emotion. It never copies a real person's voice.",
+      "category": "media",
+      "keywords": [
+        "voice changer",
+        "change voice",
+        "voice effects",
+        "voice modulator",
+        "voice over"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "vocal-remover",
+      "source": "./vocal-remover",
+      "description": "Vocal remover: split a song from your MegaScenes library into the instrumental and the vocals, two files for karaoke, covers, practice and remixes, or into six stems.",
+      "category": "media",
+      "keywords": [
+        "vocal remover",
+        "remove vocals",
+        "karaoke",
+        "instrumental",
+        "acapella"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "collage-maker",
+      "source": "./collage-maker",
+      "description": "Collage maker: arrange 2 to 14 photos from your MegaScenes library into one collage in the layout and style you describe, for birthdays, trips, mood boards and social posts.",
+      "category": "media",
+      "keywords": [
+        "collage maker",
+        "photo collage",
+        "collage",
+        "picture collage",
+        "photo grid"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "image-enhancer",
+      "source": "./image-enhancer",
+      "description": "Image enhancer: sharpen and restore a blurry, noisy or old photo from your MegaScenes library, with cleaner detail, less grain and restored faces, at a higher resolution.",
+      "category": "media",
+      "keywords": [
+        "image enhancer",
+        "photo enhancer",
+        "unblur image",
+        "enhance photo",
+        "sharpen image"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graffiti-generator",
+      "source": "./graffiti-generator",
+      "description": "Graffiti generator: turn a word or a name into graffiti art in wildstyle, bubble letters, 3D tags or throw-ups, on a wall, a train or a clean background.",
+      "category": "media",
+      "keywords": [
+        "graffiti generator",
+        "graffiti",
+        "graffiti art",
+        "graffiti name",
+        "street art"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "professional-headshots",
+      "source": "./professional-headshots",
+      "description": "Professional headshots: a studio headshot of yourself from your own photo in your MegaScenes library, with the same face and the outfit and background you pick, for profiles and resumes.",
+      "category": "media",
+      "keywords": [
+        "professional headshots",
+        "headshot",
+        "headshot generator",
+        "profile photo",
+        "business headshot"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "landscape-design",
+      "source": "./landscape-design",
+      "description": "Landscape design: redesign a garden, backyard, patio, terrace or front yard in the style you want, from a photo in your MegaScenes library or from a description.",
+      "category": "media",
+      "keywords": [
+        "landscape design",
+        "garden design",
+        "backyard design",
+        "yard design",
+        "patio design"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "family-crests",
+      "source": "./family-crests",
+      "description": "Family crests: design a family crest or coat of arms with your surname and motto, and the symbols and colors you choose, for gifts, reunions, prints and engravings.",
+      "category": "media",
+      "keywords": [
+        "family crest",
+        "coat of arms",
+        "family crest maker",
+        "coat of arms maker",
+        "heraldry"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "line-art",
+      "source": "./line-art",
+      "description": "Line art: turn a photo from your MegaScenes library or a description into clean black outlines with no shading, for illustrations, tattoo stencils, embroidery, laser cutting and prints.",
+      "category": "media",
+      "keywords": [
+        "line art",
+        "line drawing",
+        "photo to line art",
+        "line art generator",
+        "outline drawing"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "image-translator",
+      "source": "./image-translator",
+      "description": "Image translator: translate the text inside an image from your MegaScenes library and get the same image back with the translation in place, for comics, menus, signs, posters and slides.",
+      "category": "media",
+      "keywords": [
+        "image translator",
+        "translate image",
+        "manga translator",
+        "picture translator",
+        "translate text in image"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "audio-translator",
+      "source": "./audio-translator",
+      "description": "Audio translator: translate a recording from your MegaScenes library into another language, spoken in the voices of the original speakers. Podcasts, voice-overs, lessons, up to 8 minutes.",
+      "category": "media",
+      "keywords": [
+        "audio translator",
+        "voice translator",
+        "translate audio",
+        "dubbing",
+        "translate podcast"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "channel-banners",
+      "source": "./channel-banners",
+      "description": "Channel banners: design a YouTube channel banner with your channel name and tagline at 2560 x 1440, the text kept in the safe area that shows on phones, desktops and TVs.",
+      "category": "media",
+      "keywords": [
+        "channel banner",
+        "channel art",
+        "banner design"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "flyer-maker",
+      "source": "./flyer-maker",
+      "description": "Flyer maker: design a flyer for your event, sale or business with the headline, date, place and offer in plain view, on a portrait page ready to print or post.",
+      "category": "media",
+      "keywords": [
+        "flyer maker",
+        "flyer",
+        "flyer design",
+        "event flyer",
+        "party flyer"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "fantasy-maps",
+      "source": "./fantasy-maps",
+      "description": "Fantasy maps: an illustrated map of a world you invent, for tabletop games, novels and campaigns, with kingdoms, coasts, mountains, forests, rivers and your place names.",
+      "category": "media",
+      "keywords": [
+        "fantasy map",
+        "fantasy map generator",
+        "world map maker",
+        "tabletop map",
+        "worldbuilding"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "photo-filters",
+      "source": "./photo-filters",
+      "description": "Photo filters: turn a photo from your MegaScenes library into a new look, such as cartoon, anime, watercolor, oil painting, pencil sketch, pop art or vintage film, keeping its composition.",
+      "category": "media",
+      "keywords": [
+        "photo filters",
+        "photo to cartoon",
+        "photo to anime",
+        "photo to painting",
+        "photo effects"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "3d-animation",
+      "source": "./3d-animation",
+      "description": "3D animation: a short clip in the look of a 3D animated film, from a description or a picture in your MegaScenes library, with stylized characters, soft lighting and a cinematic camera.",
+      "category": "media",
+      "keywords": [
+        "3d animation",
+        "3d animation generator",
+        "animated video",
+        "cartoon video",
+        "3d cartoon"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "family-portraits",
+      "source": "./family-portraits",
+      "description": "Family portraits: one portrait of your family from photos in your MegaScenes library, everyone with their own face, in the style and setting you choose, from studio to painted.",
+      "category": "media",
+      "keywords": [
+        "family portrait",
+        "family photo",
+        "family portrait generator",
+        "family picture",
+        "holiday family photo"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "pet-portraits",
+      "source": "./pet-portraits",
+      "description": "Pet portraits: turn a photo of your pet from your MegaScenes library into a regal, Renaissance, watercolor or cartoon portrait, keeping its breed, colors and markings.",
+      "category": "media",
+      "keywords": [
+        "pet portrait",
+        "dog portrait",
+        "cat portrait",
+        "pet painting",
+        "custom pet portrait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "photoshoot-generator",
+      "source": "./photoshoot-generator",
+      "description": "Photoshoot generator: new photos of yourself from your own photo in your MegaScenes library, with the same face in the scene and outfit you choose, for profiles, portfolios and posts.",
+      "category": "media",
+      "keywords": [
+        "photoshoot",
+        "photoshoot generator",
+        "photo shoot",
+        "portrait photoshoot",
+        "profile photoshoot"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "hairstyle-try-on",
+      "source": "./hairstyle-try-on",
+      "description": "Hairstyle try on: see a new haircut or hair color on your own photo from your MegaScenes library before the salon, with the same face: a bob, bangs, a buzz cut, waves or a new shade.",
+      "category": "media",
+      "keywords": [
+        "hairstyle try on",
+        "hairstyle changer",
+        "try on haircut",
+        "hair color changer",
+        "virtual hairstyle"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "monogram-maker",
+      "source": "./monogram-maker",
+      "description": "Monogram maker: design a monogram from your initials for weddings, stationery, embroidery, signet rings and personal brands, in classic, modern or floral styles.",
+      "category": "media",
+      "keywords": [
+        "monogram maker",
+        "monogram",
+        "wedding monogram",
+        "initials logo",
+        "monogram generator"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "social-media-posts",
+      "source": "./social-media-posts",
+      "description": "Social media posts: design a post with your message on it, a square feed post, a tall story or a pin, for an announcement, a quote, a sale or a tip.",
+      "category": "media",
+      "keywords": [
+        "social media posts",
+        "social media post design",
+        "post maker",
+        "story maker"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "banner-maker",
+      "source": "./banner-maker",
+      "description": "Banner maker: design a banner with your headline for a website, a store, an event or a sale, in a wide, square or tall format.",
+      "category": "media",
+      "keywords": [
+        "banner maker",
+        "banner design",
+        "web banner",
+        "sale banner",
+        "event banner"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "ringtone-maker",
+      "source": "./ringtone-maker",
+      "description": "Ringtone maker: an original ringtone or notification tune of about 30 seconds from a style and mood, a catchy loop, marimba, chiptune, lo-fi or orchestral.",
+      "category": "media",
+      "keywords": [
+        "ringtone maker",
+        "ringtone",
+        "custom ringtone",
+        "ringtone generator",
+        "notification sound"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
     }
   ]
 }

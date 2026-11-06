@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "line-art",
+  "displayName": "Line Art",
+  "version": "1.0.0",
+  "description": "Line art: turn a photo from your MegaScenes library or a description into clean black outlines with no shading, for illustrations, tattoo stencils, embroidery, laser cutting and prints.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "line art",
+    "line drawing",
+    "photo to line art",
+    "line art generator",
+    "outline drawing"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

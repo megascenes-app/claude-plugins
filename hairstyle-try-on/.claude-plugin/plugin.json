@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "hairstyle-try-on",
+  "displayName": "Hairstyle Try On",
+  "version": "1.0.0",
+  "description": "Hairstyle try on: see a new haircut or hair color on your own photo from your MegaScenes library before the salon, with the same face: a bob, bangs, a buzz cut, waves or a new shade.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "hairstyle try on",
+    "hairstyle changer",
+    "try on haircut",
+    "hair color changer",
+    "virtual hairstyle"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

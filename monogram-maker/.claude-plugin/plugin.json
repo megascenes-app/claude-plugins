@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "monogram-maker",
+  "displayName": "Monogram Maker",
+  "version": "1.0.0",
+  "description": "Monogram maker: design a monogram from your initials for weddings, stationery, embroidery, signet rings and personal brands, in classic, modern or floral styles.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "monogram maker",
+    "monogram",
+    "wedding monogram",
+    "initials logo",
+    "monogram generator"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

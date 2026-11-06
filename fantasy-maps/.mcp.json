@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-fantasy-map": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/fantasy-map/mcp"
+    }
+  }
+}

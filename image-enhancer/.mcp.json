@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-image-enhancer": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/image-enhancer/mcp"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "3d-animation",
+  "displayName": "3D Animation",
+  "version": "1.0.0",
+  "description": "3D animation: a short clip in the look of a 3D animated film, from a description or a picture in your MegaScenes library, with stylized characters, soft lighting and a cinematic camera.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "3d animation",
+    "3d animation generator",
+    "animated video",
+    "cartoon video",
+    "3d cartoon"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

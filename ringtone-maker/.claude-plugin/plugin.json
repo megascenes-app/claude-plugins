@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ringtone-maker",
+  "displayName": "Ringtone Maker",
+  "version": "1.0.0",
+  "description": "Ringtone maker: an original ringtone or notification tune of about 30 seconds from a style and mood, a catchy loop, marimba, chiptune, lo-fi or orchestral.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ringtone maker",
+    "ringtone",
+    "custom ringtone",
+    "ringtone generator",
+    "notification sound"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}
