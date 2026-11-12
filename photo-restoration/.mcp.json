@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-photo-restoration": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/photo-restoration/mcp"
+    }
+  }
+}

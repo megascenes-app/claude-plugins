@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-christmas-wallpaper": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/christmas-wallpaper/mcp"
+    }
+  }
+}

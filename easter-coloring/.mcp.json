@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-easter-coloring": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/easter-coloring/mcp"
+    }
+  }
+}

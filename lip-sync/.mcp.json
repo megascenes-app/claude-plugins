@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-lip-sync": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/lip-sync/mcp"
+    }
+  }
+}

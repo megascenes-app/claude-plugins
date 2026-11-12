@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "anniversary-song",
+  "displayName": "Anniversary Song Maker",
+  "version": "1.0.0",
+  "description": "Create an original anniversary song with vocals about the two of you: your names, the years together and the moments you shared, in the style you choose.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "anniversary song",
+    "personalized anniversary song",
+    "custom anniversary song",
+    "anniversary song for wife",
+    "song for parents anniversary"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

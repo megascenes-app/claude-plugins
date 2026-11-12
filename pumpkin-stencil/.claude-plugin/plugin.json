@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "pumpkin-stencil",
+  "displayName": "Pumpkin Carving Stencils",
+  "version": "1.0.0",
+  "description": "Create pumpkin carving stencils to print and trace onto your pumpkin: a spooky face, a black cat, a bat or a haunted house, in solid black shapes on white.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "pumpkin carving stencils",
+    "pumpkin carving templates",
+    "pumpkin stencils",
+    "pumpkin carving ideas",
+    "printable pumpkin stencils"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-graduation-photoshoot": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/graduation-photoshoot/mcp"
+    }
+  }
+}

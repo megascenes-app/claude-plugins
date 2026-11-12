@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-new-year-card": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/new-year-card/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-valentine-coloring": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/valentine-coloring/mcp"
+    }
+  }
+}

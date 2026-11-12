@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-santa-video": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/santa-video/mcp"
+    }
+  }
+}

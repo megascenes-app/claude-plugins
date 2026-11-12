@@ -831,6 +831,1190 @@
       ],
       "homepage": "https://megascenes.com/connectors#claude",
       "license": "MIT"
+    },
+    {
+      "name": "lip-sync",
+      "source": "./lip-sync",
+      "description": "Lip-sync a video from your MegaScenes library to an audio track: the same video, with the mouth matched to the new words.",
+      "category": "media",
+      "keywords": [
+        "lip sync",
+        "lipsync",
+        "dubbing",
+        "lip sync video",
+        "talking video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-card",
+      "source": "./christmas-card",
+      "description": "Design Christmas cards with your own message and names in the design, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "christmas card",
+        "christmas card maker",
+        "custom christmas cards",
+        "holiday card",
+        "christmas greeting card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-greeting",
+      "source": "./christmas-greeting",
+      "description": "Create Merry Christmas images with your own wish written in the picture, ready to share in chats and on social media.",
+      "category": "media",
+      "keywords": [
+        "merry christmas images",
+        "christmas wishes images",
+        "christmas greetings",
+        "happy holidays image",
+        "christmas picture"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-wallpaper",
+      "source": "./christmas-wallpaper",
+      "description": "Create Christmas wallpapers and backgrounds for your phone or computer, in the scene and style you choose.",
+      "category": "media",
+      "keywords": [
+        "christmas wallpaper",
+        "christmas background",
+        "christmas phone wallpaper",
+        "holiday wallpaper",
+        "christmas desktop background"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-coloring",
+      "source": "./christmas-coloring",
+      "description": "Create printable Christmas coloring pages with clean black outlines on white, simple for little hands or detailed for adults.",
+      "category": "media",
+      "keywords": [
+        "christmas coloring pages",
+        "christmas coloring sheets",
+        "printable christmas coloring",
+        "holiday coloring page",
+        "christmas activity"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-clipart",
+      "source": "./christmas-clipart",
+      "description": "Create Christmas clipart and stickers on a clean background: ornaments, snowmen, holly, gifts and more, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "christmas clipart",
+        "christmas stickers",
+        "christmas png",
+        "holiday clipart",
+        "christmas graphics"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "santa-letter",
+      "source": "./santa-letter",
+      "description": "Create a printable letter from Santa with the first name and the good deeds you choose, for parents preparing a Christmas surprise.",
+      "category": "media",
+      "keywords": [
+        "letter from santa",
+        "santa letter",
+        "personalized letter from santa",
+        "north pole letter",
+        "santa claus letter"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "santa-video",
+      "source": "./santa-video",
+      "description": "Create a short video of Santa saying a message you write, with a first name, for parents preparing a Christmas surprise.",
+      "category": "media",
+      "keywords": [
+        "video from santa",
+        "santa video message",
+        "personalized santa video",
+        "message from santa",
+        "santa claus video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-photoshoot",
+      "source": "./christmas-photoshoot",
+      "description": "Create Christmas photos of yourself from your own photo in your MegaScenes library: the same face by the tree, in the snow or in a cozy sweater.",
+      "category": "media",
+      "keywords": [
+        "christmas photoshoot",
+        "christmas photo",
+        "christmas portrait",
+        "holiday photoshoot",
+        "christmas picture of me"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-family-portrait",
+      "source": "./christmas-family-portrait",
+      "description": "Create a Christmas family portrait from your family photos in your MegaScenes library, each person with their own face, by the tree or in the snow.",
+      "category": "media",
+      "keywords": [
+        "christmas family portrait",
+        "christmas family photo",
+        "family christmas card photo",
+        "holiday family portrait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-pet-portrait",
+      "source": "./christmas-pet-portrait",
+      "description": "Turn a photo of your pet from your MegaScenes library into a Christmas portrait: a Santa hat, a cozy sweater, by the tree, keeping its breed and markings.",
+      "category": "media",
+      "keywords": [
+        "christmas pet portrait",
+        "dog christmas photo",
+        "cat christmas portrait",
+        "pet santa hat",
+        "pet holiday portrait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "christmas-song",
+      "source": "./christmas-song",
+      "description": "Create an original Christmas song with vocals about your family, your names and your memories, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "christmas song",
+        "personalized christmas song",
+        "custom christmas song",
+        "christmas song for family",
+        "holiday song"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "new-year-card",
+      "source": "./new-year-card",
+      "description": "Design New Year cards with your own wish and names in the design, for 2027 and beyond, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "new year card",
+        "happy new year card",
+        "new year greeting card",
+        "new year wishes card",
+        "2027 card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "thanksgiving-card",
+      "source": "./thanksgiving-card",
+      "description": "Design Thanksgiving cards with your greeting, your message and your signature in the design, in the look you choose.",
+      "category": "media",
+      "keywords": [
+        "thanksgiving card",
+        "thanksgiving card maker",
+        "printable thanksgiving cards",
+        "personalized thanksgiving card",
+        "thanksgiving card ideas"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "thanksgiving-greeting",
+      "source": "./thanksgiving-greeting",
+      "description": "Create Happy Thanksgiving images with your own greeting written in the picture, ready to send in chats and share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy thanksgiving images",
+        "thanksgiving images",
+        "thanksgiving wishes",
+        "thanksgiving greeting",
+        "happy thanksgiving 2026"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-card",
+      "source": "./birthday-card",
+      "description": "Design birthday cards with the name, your message and your signature in the design, in the look you choose.",
+      "category": "media",
+      "keywords": [
+        "birthday card maker",
+        "custom birthday cards",
+        "happy birthday card",
+        "printable birthday card",
+        "birthday card with name"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-invitation",
+      "source": "./birthday-invitation",
+      "description": "Design birthday party invitations with the name, the date, the time and the place on them, in the party theme you choose.",
+      "category": "media",
+      "keywords": [
+        "birthday invitation maker",
+        "birthday party invitation",
+        "custom birthday invitations",
+        "printable birthday invitation",
+        "surprise party invitation"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-song",
+      "source": "./birthday-song",
+      "description": "Create an original birthday song with vocals that sings the name of the person you celebrate, with your memories and inside jokes, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "birthday song with name",
+        "personalized birthday song",
+        "custom birthday song",
+        "happy birthday song",
+        "birthday song maker"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "hanukkah-card",
+      "source": "./hanukkah-card",
+      "description": "Design Hanukkah cards with your greeting, your message and your signature in the design, with the menorah, a dreidel or the Star of David drawn with care.",
+      "category": "media",
+      "keywords": [
+        "hanukkah card",
+        "hanukkah card maker",
+        "happy hanukkah card",
+        "hanukkah cards",
+        "chanukah card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "hanukkah-greeting",
+      "source": "./hanukkah-greeting",
+      "description": "Create Happy Hanukkah images with your own greeting written in the picture and the lights of the menorah drawn with care, ready to send in chats and share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy hanukkah images",
+        "hanukkah images",
+        "hanukkah wishes",
+        "happy hanukkah",
+        "chanukah images"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-video",
+      "source": "./birthday-video",
+      "description": "Make a short birthday video with music and sound: a festive scene in the party theme you pick, with an optional line spoken or sung in it.",
+      "category": "media",
+      "keywords": [
+        "birthday video maker",
+        "happy birthday video",
+        "birthday video with name",
+        "birthday video message",
+        "birthday wishes video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-photoshoot",
+      "source": "./birthday-photoshoot",
+      "description": "Create birthday photos of yourself from your own photo in your MegaScenes library: the same face with balloons, a cake and candles or a glam party backdrop.",
+      "category": "media",
+      "keywords": [
+        "birthday photoshoot",
+        "birthday photo",
+        "birthday photoshoot ideas",
+        "birthday picture of me",
+        "birthday portrait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-greeting",
+      "source": "./birthday-greeting",
+      "description": "Create Happy Birthday images with your own greeting written in the picture, ready to send in chats and share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy birthday images",
+        "birthday wishes images",
+        "happy birthday picture",
+        "birthday greeting image",
+        "birthday wishes with name"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-printables",
+      "source": "./birthday-printables",
+      "description": "Design birthday party printables in one matching theme: cupcake toppers, gift tags, food labels, place cards and signs, as a sheet to print and cut.",
+      "category": "media",
+      "keywords": [
+        "birthday printables",
+        "birthday party printables",
+        "printable cupcake toppers",
+        "birthday gift tags",
+        "party food labels"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-cake",
+      "source": "./birthday-cake",
+      "description": "Design a birthday cake as a picture to show your baker or to inspire your own baking: tiers, colors, decorations and the words on the cake.",
+      "category": "media",
+      "keywords": [
+        "birthday cake design",
+        "birthday cake ideas",
+        "cake design generator",
+        "custom birthday cake",
+        "birthday cake inspiration"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-coloring",
+      "source": "./birthday-coloring",
+      "description": "Create printable birthday coloring pages with clean black outlines on white: cakes, balloons, presents and party animals, with a name if you like.",
+      "category": "media",
+      "keywords": [
+        "birthday coloring pages",
+        "printable birthday coloring",
+        "happy birthday coloring page",
+        "birthday coloring sheet",
+        "party coloring pages"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "new-year-greeting",
+      "source": "./new-year-greeting",
+      "description": "Create Happy New Year images with your own wishes and the year written in the picture, ready to send in chats and share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy new year images 2027",
+        "happy new year images",
+        "new year wishes images",
+        "new year greeting image",
+        "happy new year 2027"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "new-year-photoshoot",
+      "source": "./new-year-photoshoot",
+      "description": "Create New Year's Eve photos of yourself from your own selfie in your MegaScenes library: the same face with fireworks behind you, gold confetti, sparklers or a glam party backdrop.",
+      "category": "media",
+      "keywords": [
+        "new year photoshoot",
+        "new years eve photoshoot",
+        "new year photoshoot ideas",
+        "new years eve photo",
+        "new year picture of me"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "new-year-video",
+      "source": "./new-year-video",
+      "description": "Make a short Happy New Year video with music and sound to send to the people you care about: fireworks, a countdown, confetti and an optional line spoken in the video.",
+      "category": "media",
+      "keywords": [
+        "happy new year video",
+        "new year video maker",
+        "new year wishes video",
+        "happy new year 2027 video",
+        "new year greeting video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "birthday-banner",
+      "source": "./birthday-banner",
+      "description": "Design birthday banners with your greeting and the name in the colors of the party, to print and hang or to show on a screen.",
+      "category": "media",
+      "keywords": [
+        "birthday banner maker",
+        "happy birthday banner",
+        "printable birthday banner",
+        "custom birthday banner",
+        "birthday party banner"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "wedding-invitation",
+      "source": "./wedding-invitation",
+      "description": "Design wedding invitations, save the dates, RSVP and thank-you cards with the couple's names, the date and the venue, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "wedding invitation maker",
+        "wedding invitations",
+        "save the date maker",
+        "wedding rsvp card",
+        "wedding thank you cards"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "wedding-photoshoot",
+      "source": "./wedding-photoshoot",
+      "description": "Create pre-wedding and wedding photos of the two of you from your own photos in your MegaScenes library: the same faces on a beach at sunset, in a vineyard or in a city at night.",
+      "category": "media",
+      "keywords": [
+        "wedding photoshoot",
+        "pre wedding photoshoot",
+        "engagement photos",
+        "couple photoshoot",
+        "save the date photo"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "wedding-song",
+      "source": "./wedding-song",
+      "description": "Create an original wedding song with vocals about the couple: their names, how they met and their story, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "wedding song",
+        "personalized wedding song",
+        "custom wedding song",
+        "first dance song",
+        "song for the couple"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-card",
+      "source": "./anniversary-card",
+      "description": "Design anniversary cards with your names, the years together, your message and your signature in the design, in the look you choose.",
+      "category": "media",
+      "keywords": [
+        "anniversary card maker",
+        "custom anniversary card",
+        "happy anniversary card",
+        "anniversary card for husband",
+        "printable anniversary card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-greeting",
+      "source": "./anniversary-greeting",
+      "description": "Create Happy Anniversary images with your own greeting written in the picture, to send to your partner, your parents or friends.",
+      "category": "media",
+      "keywords": [
+        "happy anniversary images",
+        "anniversary wishes images",
+        "happy anniversary picture",
+        "anniversary greeting image",
+        "anniversary wishes for parents"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-photoshoot",
+      "source": "./anniversary-photoshoot",
+      "description": "Create anniversary photos of the two of you from your own photos in your MegaScenes library: the same faces at a candlelit dinner, in Paris at night or recreating your wedding day.",
+      "category": "media",
+      "keywords": [
+        "anniversary photoshoot",
+        "anniversary photo ideas",
+        "couple photoshoot",
+        "anniversary photos",
+        "romantic couple photo"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-song",
+      "source": "./anniversary-song",
+      "description": "Create an original anniversary song with vocals about the two of you: your names, the years together and the moments you shared, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "anniversary song",
+        "personalized anniversary song",
+        "custom anniversary song",
+        "anniversary song for wife",
+        "song for parents anniversary"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "wedding-video",
+      "source": "./wedding-video",
+      "description": "Make a short wedding video for an announcement, a save the date or a keepsake: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life.",
+      "category": "media",
+      "keywords": [
+        "wedding video maker",
+        "save the date video",
+        "wedding announcement video",
+        "engagement video",
+        "wedding invitation video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-video",
+      "source": "./anniversary-video",
+      "description": "Make a short anniversary video for your partner or your parents: a romantic scene from your description, or a photo of the couple from your MegaScenes library brought to life.",
+      "category": "media",
+      "keywords": [
+        "anniversary video maker",
+        "anniversary video",
+        "happy anniversary video",
+        "anniversary surprise video",
+        "romantic anniversary video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "love-song",
+      "source": "./love-song",
+      "description": "Create an original love song with vocals for the person you love: their name, your story and what you love about them, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "love song generator",
+        "personalized love song",
+        "custom love song",
+        "song for my girlfriend",
+        "valentines day song"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "lullaby",
+      "source": "./lullaby",
+      "description": "Create an original lullaby with a soft voice that sings your little one's name, slow and soothing, with music box, piano, guitar or harp, to play at bedtime.",
+      "category": "media",
+      "keywords": [
+        "lullaby with name",
+        "personalized lullaby",
+        "custom lullaby",
+        "baby lullaby song",
+        "lullaby maker"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "colorize-photos",
+      "source": "./colorize-photos",
+      "description": "Bring black and white photos from your MegaScenes library to color: family photos, old portraits, weddings and places, with the same composition and the same people.",
+      "category": "media",
+      "keywords": [
+        "colorize old photos",
+        "colorize black and white photos",
+        "photo colorizer",
+        "add color to old photo",
+        "colorize photo"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "photo-restoration",
+      "source": "./photo-restoration",
+      "description": "Restore old or damaged photos from your MegaScenes library: scratches, tears, creases, stains and faded colors repaired, the same photo with the same people.",
+      "category": "media",
+      "keywords": [
+        "photo restoration",
+        "restore old photos",
+        "repair damaged photo",
+        "fix old photos",
+        "old photo restoration"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "pet-memorial-portrait",
+      "source": "./pet-memorial-portrait",
+      "description": "Remember a pet you lost with a memorial portrait from its photo in your MegaScenes library: in a sunlit meadow, under a rainbow or among the stars, keeping its breed and markings.",
+      "category": "media",
+      "keywords": [
+        "pet memorial portrait",
+        "pet memorial gift",
+        "dog memorial portrait",
+        "cat memorial portrait",
+        "rainbow bridge pet portrait"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "dog-photoshoot",
+      "source": "./dog-photoshoot",
+      "description": "Give your dog a professional photoshoot from its photo in your MegaScenes library: a studio backdrop, an outfit, a season or a park at golden hour, keeping its breed and markings.",
+      "category": "media",
+      "keywords": [
+        "dog photoshoot",
+        "dog portrait",
+        "dog photo ideas",
+        "professional dog photos",
+        "dog calendar photos"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "talking-pet-video",
+      "source": "./talking-pet-video",
+      "description": "Make your pet talk: a short video from a photo of your dog, cat or any animal in your MegaScenes library, saying the words you write in a funny or sweet voice.",
+      "category": "media",
+      "keywords": [
+        "talking pet video",
+        "make my dog talk",
+        "talking cat video",
+        "talking animal video",
+        "pet talking video"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-card",
+      "source": "./valentine-card",
+      "description": "Design Valentine's Day cards with their name, your message and your signature in the design, in the look you choose.",
+      "category": "media",
+      "keywords": [
+        "valentine card maker",
+        "valentines day card",
+        "personalized valentine card",
+        "printable valentine card",
+        "funny valentine card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-coloring",
+      "source": "./valentine-coloring",
+      "description": "Create printable Valentine's Day coloring pages with clean black outlines on white: hearts, roses, animals in love, love letters and mandalas, simple or detailed.",
+      "category": "media",
+      "keywords": [
+        "valentine coloring pages",
+        "valentines day coloring pages",
+        "printable valentine coloring",
+        "heart coloring page",
+        "valentine coloring sheet"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-wallpaper",
+      "source": "./valentine-wallpaper",
+      "description": "Create Valentine's Day wallpapers for your phone or computer: hearts, roses, soft pink skies and candlelight, in the style you choose.",
+      "category": "media",
+      "keywords": [
+        "valentine wallpaper",
+        "valentines day wallpaper",
+        "valentine phone wallpaper",
+        "heart wallpaper",
+        "valentine background"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-photoshoot",
+      "source": "./valentine-photoshoot",
+      "description": "Create Valentine's Day photos from your own photos in your MegaScenes library, of yourself or of the two of you: the same faces with roses and candlelight, on a rooftop at sunset or in Paris at night.",
+      "category": "media",
+      "keywords": [
+        "valentines day photoshoot",
+        "valentine photoshoot ideas",
+        "couple valentine photoshoot",
+        "valentines day photos",
+        "couple photoshoot"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-video",
+      "source": "./valentine-video",
+      "description": "Make a short Valentine's Day video to dedicate to the person you love: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life.",
+      "category": "media",
+      "keywords": [
+        "valentine video maker",
+        "valentines day video",
+        "valentine video for girlfriend",
+        "romantic video maker",
+        "love video maker"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "valentine-song",
+      "source": "./valentine-song",
+      "description": "Create an original Valentine's Day song with vocals for the person you love: their name, your story and what you love about them, to send on February 14th.",
+      "category": "media",
+      "keywords": [
+        "valentine song",
+        "valentines day song",
+        "personalized valentine song",
+        "valentine song for her",
+        "valentine song for him"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "lunar-new-year-greeting",
+      "source": "./lunar-new-year-greeting",
+      "description": "Create Lunar New Year greeting images with your own wishes written in the picture, over red lanterns, plum blossoms or the animal of the year, drawn with respect for the tradition.",
+      "category": "media",
+      "keywords": [
+        "lunar new year images",
+        "chinese new year images",
+        "lunar new year wishes",
+        "happy lunar new year 2027",
+        "lunar new year card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "mothers-day-card",
+      "source": "./mothers-day-card",
+      "description": "Design Mother's Day cards for your mom, your grandma or any mother you love, with her name, your message and your signature in the design.",
+      "category": "media",
+      "keywords": [
+        "mothers day card",
+        "mothers day card maker",
+        "mothers day card ideas",
+        "happy mothers day card",
+        "printable mothers day card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "mothers-day-greeting",
+      "source": "./mothers-day-greeting",
+      "description": "Create Happy Mother's Day images with your own words written in the picture, ready to send to your mom or share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy mothers day images",
+        "mothers day images",
+        "mothers day wishes",
+        "happy mothers day greetings",
+        "mothers day pictures"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "fathers-day-card",
+      "source": "./fathers-day-card",
+      "description": "Design Father's Day cards for your dad, your grandpa or any father you love, with his name, your message and your signature in the design.",
+      "category": "media",
+      "keywords": [
+        "fathers day card",
+        "fathers day card maker",
+        "fathers day card ideas",
+        "happy fathers day card",
+        "printable fathers day card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "fathers-day-greeting",
+      "source": "./fathers-day-greeting",
+      "description": "Create Happy Father's Day images with your own words written in the picture, ready to send to your dad or share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy fathers day images",
+        "fathers day images",
+        "fathers day wishes",
+        "fathers day pictures",
+        "fathers day greeting"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graduation-invitation",
+      "source": "./graduation-invitation",
+      "description": "Design graduation party invitations with the graduate's name, the class or degree, the date, the time and the place on them, in the colors you choose.",
+      "category": "media",
+      "keywords": [
+        "graduation invitation",
+        "graduation party invitation",
+        "graduation invitation template",
+        "custom graduation invitations",
+        "grad party invitation"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graduation-card",
+      "source": "./graduation-card",
+      "description": "Design graduation cards for the graduate in your life, with their name, your congratulations and your signature in the design.",
+      "category": "media",
+      "keywords": [
+        "graduation card",
+        "graduation card maker",
+        "congratulations graduation card",
+        "personalized graduation card",
+        "graduation card ideas"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graduation-announcement",
+      "source": "./graduation-announcement",
+      "description": "Design graduation announcements with the graduate's name, the degree or diploma, the year and the school, to post, print or send to family and friends.",
+      "category": "media",
+      "keywords": [
+        "graduation announcement",
+        "graduation announcement maker",
+        "grad announcements",
+        "graduation announcement template",
+        "class of 2027 announcement"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "easter-card",
+      "source": "./easter-card",
+      "description": "Design Easter cards with your greeting, your message and your signature in the design, religious or not, in the look you choose.",
+      "category": "media",
+      "keywords": [
+        "easter card",
+        "easter card maker",
+        "easter card ideas",
+        "printable easter cards",
+        "happy easter card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "easter-greeting",
+      "source": "./easter-greeting",
+      "description": "Create Happy Easter images with your own greeting written in the picture, religious or not, ready to send in chats and share on social media.",
+      "category": "media",
+      "keywords": [
+        "happy easter images",
+        "easter images",
+        "easter wishes",
+        "happy easter 2027",
+        "easter greeting"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "easter-coloring",
+      "source": "./easter-coloring",
+      "description": "Create printable Easter coloring pages with clean black outlines on white: bunnies, painted eggs, chicks, spring flowers and baskets, simple or detailed.",
+      "category": "media",
+      "keywords": [
+        "easter coloring pages",
+        "easter coloring page",
+        "printable easter coloring",
+        "easter bunny coloring page",
+        "easter egg coloring page"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "halloween-costume",
+      "source": "./halloween-costume",
+      "description": "Try a Halloween look on your own selfie in your MegaScenes library: the same face dressed as a witch, a vampire, a pirate or a friendly ghost, spooky and fun.",
+      "category": "media",
+      "keywords": [
+        "halloween costume ideas",
+        "halloween costume photo",
+        "try on halloween costume",
+        "halloween photoshoot",
+        "halloween costume generator"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "pumpkin-stencil",
+      "source": "./pumpkin-stencil",
+      "description": "Create pumpkin carving stencils to print and trace onto your pumpkin: a spooky face, a black cat, a bat or a haunted house, in solid black shapes on white.",
+      "category": "media",
+      "keywords": [
+        "pumpkin carving stencils",
+        "pumpkin carving templates",
+        "pumpkin stencils",
+        "pumpkin carving ideas",
+        "printable pumpkin stencils"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "halloween-coloring",
+      "source": "./halloween-coloring",
+      "description": "Create printable Halloween coloring pages with clean black outlines on white: friendly ghosts, pumpkins, black cats and haunted houses, spooky and fun.",
+      "category": "media",
+      "keywords": [
+        "halloween coloring pages",
+        "halloween coloring sheets",
+        "printable halloween coloring",
+        "halloween coloring page",
+        "pumpkin coloring page"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "retirement-card",
+      "source": "./retirement-card",
+      "description": "Design retirement cards for a colleague, a friend or a parent, with their name, the years of work, your message and your signatures in the design.",
+      "category": "media",
+      "keywords": [
+        "retirement card",
+        "retirement card maker",
+        "happy retirement card",
+        "retirement card ideas",
+        "personalized retirement card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "baby-shower-invitation",
+      "source": "./baby-shower-invitation",
+      "description": "Design baby shower invitations with the parent-to-be's name, the date, the time and the place on them, in the theme you choose.",
+      "category": "media",
+      "keywords": [
+        "baby shower invitation",
+        "baby shower invitations",
+        "baby shower invitation maker",
+        "baby shower invite",
+        "gender reveal invitation"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "anniversary-invitation",
+      "source": "./anniversary-invitation",
+      "description": "Design invitations to a wedding anniversary party with the couple's names, the years together, the date and the place on them, from a silver 25th to a golden 50th.",
+      "category": "media",
+      "keywords": [
+        "anniversary invitation",
+        "anniversary party invitation",
+        "50th anniversary invitation",
+        "25th anniversary invitation",
+        "wedding anniversary invitation"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graduation-photoshoot",
+      "source": "./graduation-photoshoot",
+      "description": "Create graduation photos of yourself from your own selfie in your MegaScenes library: the same face in a cap and gown, on a campus lawn, tossing the cap or holding a diploma.",
+      "category": "media",
+      "keywords": [
+        "graduation photoshoot",
+        "graduation photo ideas",
+        "graduation pictures",
+        "cap and gown photos",
+        "graduation photoshoot ideas"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "mothers-day-song",
+      "source": "./mothers-day-song",
+      "description": "Create an original Mother's Day song with vocals for your mom or grandma: her name, your memories together and what she means to you.",
+      "category": "media",
+      "keywords": [
+        "mothers day song",
+        "song for mom",
+        "custom mothers day song",
+        "mothers day song maker",
+        "personalized song for mom"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "fathers-day-song",
+      "source": "./fathers-day-song",
+      "description": "Create an original Father's Day song with vocals for your dad or grandpa: his name, your memories together and what he means to you.",
+      "category": "media",
+      "keywords": [
+        "fathers day song",
+        "song for dad",
+        "custom fathers day song",
+        "fathers day song maker",
+        "personalized song for dad"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "graduation-song",
+      "source": "./graduation-song",
+      "description": "Create an original graduation song with vocals for the graduate: their name, their school or degree and the memories of these years.",
+      "category": "media",
+      "keywords": [
+        "graduation song",
+        "graduation song with name",
+        "custom graduation song",
+        "graduation song maker",
+        "song for graduate"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "song-for-child",
+      "source": "./song-for-child",
+      "description": "Create an original song with vocals for your son or daughter, with their name and the things they love, upbeat to dance to or gentle to sing together.",
+      "category": "media",
+      "keywords": [
+        "song for my daughter",
+        "song for my son",
+        "personalized song with name",
+        "custom name song",
+        "sing-along song"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "mothers-day-video",
+      "source": "./mothers-day-video",
+      "description": "Make a short Mother's Day video with gentle music for your mom: a tender scene of flowers, a garden or a sunrise, with an optional line spoken in the video.",
+      "category": "media",
+      "keywords": [
+        "mothers day video",
+        "mothers day video maker",
+        "mothers day video message",
+        "mothers day video ideas",
+        "video for mom"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "in-loving-memory",
+      "source": "./in-loving-memory",
+      "description": "Design memorial cards, funeral program covers and remembrance signs in loving memory of someone, with their name, the dates and the words you choose.",
+      "category": "media",
+      "keywords": [
+        "in loving memory card",
+        "memorial card maker",
+        "funeral program cover",
+        "remembrance card",
+        "celebration of life card"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "animate-drawing",
+      "source": "./animate-drawing",
+      "description": "Bring a drawing to life: a photo or scan of a hand-drawn picture in your MegaScenes library, turned into a short animation that keeps the same lines, colors and paper.",
+      "category": "media",
+      "keywords": [
+        "animate a drawing",
+        "bring drawings to life",
+        "animate my drawing",
+        "drawing to animation",
+        "animated drawing"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "storybook",
+      "source": "./storybook",
+      "description": "Illustrate a short picture book page by page, with the same characters and the same style on every page, from a story you write in the chat.",
+      "category": "media",
+      "keywords": [
+        "storybook maker",
+        "picture book maker",
+        "illustrated story",
+        "story illustration",
+        "create a storybook"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
+    },
+    {
+      "name": "bedtime-story",
+      "source": "./bedtime-story",
+      "description": "Turn a bedtime story into a recording read by a calm, warm voice, to play at night: a story you write together with Claude or one of your own.",
+      "category": "media",
+      "keywords": [
+        "bedtime story generator",
+        "bedtime stories read aloud",
+        "personalized bedtime story",
+        "story narrator",
+        "audio bedtime story"
+      ],
+      "homepage": "https://megascenes.com/connectors#claude",
+      "license": "MIT"
     }
   ]
 }

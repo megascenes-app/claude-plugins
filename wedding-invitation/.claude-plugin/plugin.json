@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "wedding-invitation",
+  "displayName": "Wedding Invitations",
+  "version": "1.0.0",
+  "description": "Design wedding invitations, save the dates, RSVP and thank-you cards with the couple's names, the date and the venue, in the style you choose.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "wedding invitation maker",
+    "wedding invitations",
+    "save the date maker",
+    "wedding rsvp card",
+    "wedding thank you cards"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-lullaby": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/lullaby/mcp"
+    }
+  }
+}

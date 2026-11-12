@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-retirement-card": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/retirement-card/mcp"
+    }
+  }
+}

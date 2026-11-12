@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-wedding-song": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/wedding-song/mcp"
+    }
+  }
+}

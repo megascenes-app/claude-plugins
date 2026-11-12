@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "fathers-day-card",
+  "displayName": "Father's Day Card Maker",
+  "version": "1.0.0",
+  "description": "Design Father's Day cards for your dad, your grandpa or any father you love, with his name, your message and your signature in the design.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "fathers day card",
+    "fathers day card maker",
+    "fathers day card ideas",
+    "happy fathers day card",
+    "printable fathers day card"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

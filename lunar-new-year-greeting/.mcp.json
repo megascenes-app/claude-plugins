@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-lunar-new-year-greeting": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/lunar-new-year-greeting/mcp"
+    }
+  }
+}

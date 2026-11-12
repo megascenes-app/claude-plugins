@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "animate-drawing",
+  "displayName": "Animate a Drawing",
+  "version": "1.0.0",
+  "description": "Bring a drawing to life: a photo or scan of a hand-drawn picture in your MegaScenes library, turned into a short animation that keeps the same lines, colors and paper.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "animate a drawing",
+    "bring drawings to life",
+    "animate my drawing",
+    "drawing to animation",
+    "animated drawing"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

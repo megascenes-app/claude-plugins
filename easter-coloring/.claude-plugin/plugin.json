@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "easter-coloring",
+  "displayName": "Easter Coloring Pages",
+  "version": "1.0.0",
+  "description": "Create printable Easter coloring pages with clean black outlines on white: bunnies, painted eggs, chicks, spring flowers and baskets, simple or detailed.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "easter coloring pages",
+    "easter coloring page",
+    "printable easter coloring",
+    "easter bunny coloring page",
+    "easter egg coloring page"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

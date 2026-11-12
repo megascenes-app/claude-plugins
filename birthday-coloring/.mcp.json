@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-birthday-coloring": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/birthday-coloring/mcp"
+    }
+  }
+}

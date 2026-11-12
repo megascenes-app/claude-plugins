@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-talking-pet-video": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/talking-pet-video/mcp"
+    }
+  }
+}

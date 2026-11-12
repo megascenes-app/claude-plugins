@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "wedding-video",
+  "displayName": "Wedding Video Maker",
+  "version": "1.0.0",
+  "description": "Make a short wedding video for an announcement, a save the date or a keepsake: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "wedding video maker",
+    "save the date video",
+    "wedding announcement video",
+    "engagement video",
+    "wedding invitation video"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

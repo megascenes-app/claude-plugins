@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-animate-drawing": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/animate-drawing/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-colorize-photos": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/colorize-photos/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-halloween-coloring": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/halloween-coloring/mcp"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "photo-restoration",
+  "displayName": "Photo Restoration",
+  "version": "1.0.0",
+  "description": "Restore old or damaged photos from your MegaScenes library: scratches, tears, creases, stains and faded colors repaired, the same photo with the same people.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "photo restoration",
+    "restore old photos",
+    "repair damaged photo",
+    "fix old photos",
+    "old photo restoration"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

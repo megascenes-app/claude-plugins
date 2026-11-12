@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "christmas-wallpaper",
+  "displayName": "Christmas Wallpaper Maker",
+  "version": "1.0.0",
+  "description": "Create Christmas wallpapers and backgrounds for your phone or computer, in the scene and style you choose.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "christmas wallpaper",
+    "christmas background",
+    "christmas phone wallpaper",
+    "holiday wallpaper",
+    "christmas desktop background"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

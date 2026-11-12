@@ -59,6 +59,85 @@ Images, videos, logos, voice-overs, music and design assets for Claude, made in 
 | [Social Media Posts](./social-media-posts) | Social media posts: design a post with your message on it, a square feed post, a tall story or a pin, for an announcement, a quote, a sale or a tip. |
 | [Banner Maker](./banner-maker) | Banner maker: design a banner with your headline for a website, a store, an event or a sale, in a wide, square or tall format. |
 | [Ringtone Maker](./ringtone-maker) | Ringtone maker: an original ringtone or notification tune of about 30 seconds from a style and mood, a catchy loop, marimba, chiptune, lo-fi or orchestral. |
+| [Lip Sync](./lip-sync) | Lip-sync a video from your MegaScenes library to an audio track: the same video, with the mouth matched to the new words. |
+| [Christmas Card Maker](./christmas-card) | Design Christmas cards with your own message and names in the design, in the style you choose. |
+| [Christmas Greeting Images](./christmas-greeting) | Create Merry Christmas images with your own wish written in the picture, ready to share in chats and on social media. |
+| [Christmas Wallpaper Maker](./christmas-wallpaper) | Create Christmas wallpapers and backgrounds for your phone or computer, in the scene and style you choose. |
+| [Christmas Coloring Pages](./christmas-coloring) | Create printable Christmas coloring pages with clean black outlines on white, simple for little hands or detailed for adults. |
+| [Christmas Clipart](./christmas-clipart) | Create Christmas clipart and stickers on a clean background: ornaments, snowmen, holly, gifts and more, in the style you choose. |
+| [Christmas Letter from Santa](./santa-letter) | Create a printable letter from Santa with the first name and the good deeds you choose, for parents preparing a Christmas surprise. |
+| [Christmas Video from Santa](./santa-video) | Create a short video of Santa saying a message you write, with a first name, for parents preparing a Christmas surprise. |
+| [Christmas Photoshoot](./christmas-photoshoot) | Create Christmas photos of yourself from your own photo in your MegaScenes library: the same face by the tree, in the snow or in a cozy sweater. |
+| [Christmas Family Portrait](./christmas-family-portrait) | Create a Christmas family portrait from your family photos in your MegaScenes library, each person with their own face, by the tree or in the snow. |
+| [Christmas Pet Portraits](./christmas-pet-portrait) | Turn a photo of your pet from your MegaScenes library into a Christmas portrait: a Santa hat, a cozy sweater, by the tree, keeping its breed and markings. |
+| [Christmas Song](./christmas-song) | Create an original Christmas song with vocals about your family, your names and your memories, in the style you choose. |
+| [New Year Card Maker](./new-year-card) | Design New Year cards with your own wish and names in the design, for 2027 and beyond, in the style you choose. |
+| [Thanksgiving Card Maker](./thanksgiving-card) | Design Thanksgiving cards with your greeting, your message and your signature in the design, in the look you choose. |
+| [Thanksgiving Greeting Images](./thanksgiving-greeting) | Create Happy Thanksgiving images with your own greeting written in the picture, ready to send in chats and share on social media. |
+| [Birthday Card Maker](./birthday-card) | Design birthday cards with the name, your message and your signature in the design, in the look you choose. |
+| [Birthday Invitations](./birthday-invitation) | Design birthday party invitations with the name, the date, the time and the place on them, in the party theme you choose. |
+| [Birthday Song Maker](./birthday-song) | Create an original birthday song with vocals that sings the name of the person you celebrate, with your memories and inside jokes, in the style you choose. |
+| [Hanukkah Card Maker](./hanukkah-card) | Design Hanukkah cards with your greeting, your message and your signature in the design, with the menorah, a dreidel or the Star of David drawn with care. |
+| [Hanukkah Greeting Images](./hanukkah-greeting) | Create Happy Hanukkah images with your own greeting written in the picture and the lights of the menorah drawn with care, ready to send in chats and share on social media. |
+| [Birthday Video Maker](./birthday-video) | Make a short birthday video with music and sound: a festive scene in the party theme you pick, with an optional line spoken or sung in it. |
+| [Birthday Photoshoot](./birthday-photoshoot) | Create birthday photos of yourself from your own photo in your MegaScenes library: the same face with balloons, a cake and candles or a glam party backdrop. |
+| [Birthday Greeting Images](./birthday-greeting) | Create Happy Birthday images with your own greeting written in the picture, ready to send in chats and share on social media. |
+| [Birthday Printables](./birthday-printables) | Design birthday party printables in one matching theme: cupcake toppers, gift tags, food labels, place cards and signs, as a sheet to print and cut. |
+| [Birthday Cake Designer](./birthday-cake) | Design a birthday cake as a picture to show your baker or to inspire your own baking: tiers, colors, decorations and the words on the cake. |
+| [Birthday Coloring Pages](./birthday-coloring) | Create printable birthday coloring pages with clean black outlines on white: cakes, balloons, presents and party animals, with a name if you like. |
+| [New Year Greeting Images](./new-year-greeting) | Create Happy New Year images with your own wishes and the year written in the picture, ready to send in chats and share on social media. |
+| [New Year Photoshoot](./new-year-photoshoot) | Create New Year's Eve photos of yourself from your own selfie in your MegaScenes library: the same face with fireworks behind you, gold confetti, sparklers or a glam party backdrop. |
+| [New Year Video Maker](./new-year-video) | Make a short Happy New Year video with music and sound to send to the people you care about: fireworks, a countdown, confetti and an optional line spoken in the video. |
+| [Birthday Banner Maker](./birthday-banner) | Design birthday banners with your greeting and the name in the colors of the party, to print and hang or to show on a screen. |
+| [Wedding Invitations](./wedding-invitation) | Design wedding invitations, save the dates, RSVP and thank-you cards with the couple's names, the date and the venue, in the style you choose. |
+| [Wedding Photoshoot](./wedding-photoshoot) | Create pre-wedding and wedding photos of the two of you from your own photos in your MegaScenes library: the same faces on a beach at sunset, in a vineyard or in a city at night. |
+| [Wedding Song Maker](./wedding-song) | Create an original wedding song with vocals about the couple: their names, how they met and their story, in the style you choose. |
+| [Anniversary Card Maker](./anniversary-card) | Design anniversary cards with your names, the years together, your message and your signature in the design, in the look you choose. |
+| [Anniversary Greeting Images](./anniversary-greeting) | Create Happy Anniversary images with your own greeting written in the picture, to send to your partner, your parents or friends. |
+| [Anniversary Photoshoot](./anniversary-photoshoot) | Create anniversary photos of the two of you from your own photos in your MegaScenes library: the same faces at a candlelit dinner, in Paris at night or recreating your wedding day. |
+| [Anniversary Song Maker](./anniversary-song) | Create an original anniversary song with vocals about the two of you: your names, the years together and the moments you shared, in the style you choose. |
+| [Wedding Video Maker](./wedding-video) | Make a short wedding video for an announcement, a save the date or a keepsake: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life. |
+| [Anniversary Video Maker](./anniversary-video) | Make a short anniversary video for your partner or your parents: a romantic scene from your description, or a photo of the couple from your MegaScenes library brought to life. |
+| [Love Song Maker](./love-song) | Create an original love song with vocals for the person you love: their name, your story and what you love about them, in the style you choose. |
+| [Lullaby Maker](./lullaby) | Create an original lullaby with a soft voice that sings your little one's name, slow and soothing, with music box, piano, guitar or harp, to play at bedtime. |
+| [Colorize Photos](./colorize-photos) | Bring black and white photos from your MegaScenes library to color: family photos, old portraits, weddings and places, with the same composition and the same people. |
+| [Photo Restoration](./photo-restoration) | Restore old or damaged photos from your MegaScenes library: scratches, tears, creases, stains and faded colors repaired, the same photo with the same people. |
+| [Pet Memorial Portraits](./pet-memorial-portrait) | Remember a pet you lost with a memorial portrait from its photo in your MegaScenes library: in a sunlit meadow, under a rainbow or among the stars, keeping its breed and markings. |
+| [Dog Photoshoot](./dog-photoshoot) | Give your dog a professional photoshoot from its photo in your MegaScenes library: a studio backdrop, an outfit, a season or a park at golden hour, keeping its breed and markings. |
+| [Talking Pet Videos](./talking-pet-video) | Make your pet talk: a short video from a photo of your dog, cat or any animal in your MegaScenes library, saying the words you write in a funny or sweet voice. |
+| [Valentine Card Maker](./valentine-card) | Design Valentine's Day cards with their name, your message and your signature in the design, in the look you choose. |
+| [Valentine Coloring Pages](./valentine-coloring) | Create printable Valentine's Day coloring pages with clean black outlines on white: hearts, roses, animals in love, love letters and mandalas, simple or detailed. |
+| [Valentine Wallpapers](./valentine-wallpaper) | Create Valentine's Day wallpapers for your phone or computer: hearts, roses, soft pink skies and candlelight, in the style you choose. |
+| [Valentine Photoshoot](./valentine-photoshoot) | Create Valentine's Day photos from your own photos in your MegaScenes library, of yourself or of the two of you: the same faces with roses and candlelight, on a rooftop at sunset or in Paris at night. |
+| [Valentine Video Maker](./valentine-video) | Make a short Valentine's Day video to dedicate to the person you love: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life. |
+| [Valentine Song Maker](./valentine-song) | Create an original Valentine's Day song with vocals for the person you love: their name, your story and what you love about them, to send on February 14th. |
+| [Lunar New Year Greetings](./lunar-new-year-greeting) | Create Lunar New Year greeting images with your own wishes written in the picture, over red lanterns, plum blossoms or the animal of the year, drawn with respect for the tradition. |
+| [Mother's Day Card Maker](./mothers-day-card) | Design Mother's Day cards for your mom, your grandma or any mother you love, with her name, your message and your signature in the design. |
+| [Mother's Day Greeting Images](./mothers-day-greeting) | Create Happy Mother's Day images with your own words written in the picture, ready to send to your mom or share on social media. |
+| [Father's Day Card Maker](./fathers-day-card) | Design Father's Day cards for your dad, your grandpa or any father you love, with his name, your message and your signature in the design. |
+| [Father's Day Greeting Images](./fathers-day-greeting) | Create Happy Father's Day images with your own words written in the picture, ready to send to your dad or share on social media. |
+| [Graduation Invitations](./graduation-invitation) | Design graduation party invitations with the graduate's name, the class or degree, the date, the time and the place on them, in the colors you choose. |
+| [Graduation Card Maker](./graduation-card) | Design graduation cards for the graduate in your life, with their name, your congratulations and your signature in the design. |
+| [Graduation Announcements](./graduation-announcement) | Design graduation announcements with the graduate's name, the degree or diploma, the year and the school, to post, print or send to family and friends. |
+| [Easter Card Maker](./easter-card) | Design Easter cards with your greeting, your message and your signature in the design, religious or not, in the look you choose. |
+| [Easter Greeting Images](./easter-greeting) | Create Happy Easter images with your own greeting written in the picture, religious or not, ready to send in chats and share on social media. |
+| [Easter Coloring Pages](./easter-coloring) | Create printable Easter coloring pages with clean black outlines on white: bunnies, painted eggs, chicks, spring flowers and baskets, simple or detailed. |
+| [Halloween Costume Photos](./halloween-costume) | Try a Halloween look on your own selfie in your MegaScenes library: the same face dressed as a witch, a vampire, a pirate or a friendly ghost, spooky and fun. |
+| [Pumpkin Carving Stencils](./pumpkin-stencil) | Create pumpkin carving stencils to print and trace onto your pumpkin: a spooky face, a black cat, a bat or a haunted house, in solid black shapes on white. |
+| [Halloween Coloring Pages](./halloween-coloring) | Create printable Halloween coloring pages with clean black outlines on white: friendly ghosts, pumpkins, black cats and haunted houses, spooky and fun. |
+| [Retirement Card Maker](./retirement-card) | Design retirement cards for a colleague, a friend or a parent, with their name, the years of work, your message and your signatures in the design. |
+| [Baby Shower Invitations](./baby-shower-invitation) | Design baby shower invitations with the parent-to-be's name, the date, the time and the place on them, in the theme you choose. |
+| [Anniversary Party Invitations](./anniversary-invitation) | Design invitations to a wedding anniversary party with the couple's names, the years together, the date and the place on them, from a silver 25th to a golden 50th. |
+| [Graduation Photoshoot](./graduation-photoshoot) | Create graduation photos of yourself from your own selfie in your MegaScenes library: the same face in a cap and gown, on a campus lawn, tossing the cap or holding a diploma. |
+| [Mother's Day Song Maker](./mothers-day-song) | Create an original Mother's Day song with vocals for your mom or grandma: her name, your memories together and what she means to you. |
+| [Father's Day Song Maker](./fathers-day-song) | Create an original Father's Day song with vocals for your dad or grandpa: his name, your memories together and what he means to you. |
+| [Graduation Song Maker](./graduation-song) | Create an original graduation song with vocals for the graduate: their name, their school or degree and the memories of these years. |
+| [Song for Your Child](./song-for-child) | Create an original song with vocals for your son or daughter, with their name and the things they love, upbeat to dance to or gentle to sing together. |
+| [Mother's Day Video Maker](./mothers-day-video) | Make a short Mother's Day video with gentle music for your mom: a tender scene of flowers, a garden or a sunrise, with an optional line spoken in the video. |
+| [In Loving Memory](./in-loving-memory) | Design memorial cards, funeral program covers and remembrance signs in loving memory of someone, with their name, the dates and the words you choose. |
+| [Animate a Drawing](./animate-drawing) | Bring a drawing to life: a photo or scan of a hand-drawn picture in your MegaScenes library, turned into a short animation that keeps the same lines, colors and paper. |
+| [Storybook Maker](./storybook) | Illustrate a short picture book page by page, with the same characters and the same style on every page, from a story you write in the chat. |
+| [Bedtime Story Maker](./bedtime-story) | Turn a bedtime story into a recording read by a calm, warm voice, to play at night: a story you write together with Claude or one of your own. |
 
 Install in Claude Code:
 

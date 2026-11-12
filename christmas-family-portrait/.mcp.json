@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-christmas-family-portrait": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/christmas-family-portrait/mcp"
+    }
+  }
+}

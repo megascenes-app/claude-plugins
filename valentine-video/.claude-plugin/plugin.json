@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "valentine-video",
+  "displayName": "Valentine Video Maker",
+  "version": "1.0.0",
+  "description": "Make a short Valentine's Day video to dedicate to the person you love: a romantic scene from your description, or a photo of the two of you from your MegaScenes library brought to life.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "valentine video maker",
+    "valentines day video",
+    "valentine video for girlfriend",
+    "romantic video maker",
+    "love video maker"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

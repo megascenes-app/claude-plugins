@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "birthday-cake",
+  "displayName": "Birthday Cake Designer",
+  "version": "1.0.0",
+  "description": "Design a birthday cake as a picture to show your baker or to inspire your own baking: tiers, colors, decorations and the words on the cake.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "birthday cake design",
+    "birthday cake ideas",
+    "cake design generator",
+    "custom birthday cake",
+    "birthday cake inspiration"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

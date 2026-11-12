@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-wedding-video": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/wedding-video/mcp"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "christmas-pet-portrait",
+  "displayName": "Christmas Pet Portraits",
+  "version": "1.0.0",
+  "description": "Turn a photo of your pet from your MegaScenes library into a Christmas portrait: a Santa hat, a cozy sweater, by the tree, keeping its breed and markings.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "christmas pet portrait",
+    "dog christmas photo",
+    "cat christmas portrait",
+    "pet santa hat",
+    "pet holiday portrait"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-in-loving-memory": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/in-loving-memory/mcp"
+    }
+  }
+}

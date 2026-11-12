@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "birthday-photoshoot",
+  "displayName": "Birthday Photoshoot",
+  "version": "1.0.0",
+  "description": "Create birthday photos of yourself from your own photo in your MegaScenes library: the same face with balloons, a cake and candles or a glam party backdrop.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "birthday photoshoot",
+    "birthday photo",
+    "birthday photoshoot ideas",
+    "birthday picture of me",
+    "birthday portrait"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-love-song": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/love-song/mcp"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "anniversary-photoshoot",
+  "displayName": "Anniversary Photoshoot",
+  "version": "1.0.0",
+  "description": "Create anniversary photos of the two of you from your own photos in your MegaScenes library: the same faces at a candlelit dinner, in Paris at night or recreating your wedding day.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "anniversary photoshoot",
+    "anniversary photo ideas",
+    "couple photoshoot",
+    "anniversary photos",
+    "romantic couple photo"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

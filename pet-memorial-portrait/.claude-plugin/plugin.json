@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "pet-memorial-portrait",
+  "displayName": "Pet Memorial Portraits",
+  "version": "1.0.0",
+  "description": "Remember a pet you lost with a memorial portrait from its photo in your MegaScenes library: in a sunlit meadow, under a rainbow or among the stars, keeping its breed and markings.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "pet memorial portrait",
+    "pet memorial gift",
+    "dog memorial portrait",
+    "cat memorial portrait",
+    "rainbow bridge pet portrait"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

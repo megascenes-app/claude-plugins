@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "anniversary-greeting",
+  "displayName": "Anniversary Greeting Images",
+  "version": "1.0.0",
+  "description": "Create Happy Anniversary images with your own greeting written in the picture, to send to your partner, your parents or friends.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "happy anniversary images",
+    "anniversary wishes images",
+    "happy anniversary picture",
+    "anniversary greeting image",
+    "anniversary wishes for parents"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

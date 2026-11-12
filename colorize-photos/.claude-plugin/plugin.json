@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "colorize-photos",
+  "displayName": "Colorize Photos",
+  "version": "1.0.0",
+  "description": "Bring black and white photos from your MegaScenes library to color: family photos, old portraits, weddings and places, with the same composition and the same people.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "colorize old photos",
+    "colorize black and white photos",
+    "photo colorizer",
+    "add color to old photo",
+    "colorize photo"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

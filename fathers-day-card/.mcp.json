@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-fathers-day-card": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/fathers-day-card/mcp"
+    }
+  }
+}

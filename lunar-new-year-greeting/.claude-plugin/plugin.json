@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "lunar-new-year-greeting",
+  "displayName": "Lunar New Year Greetings",
+  "version": "1.0.0",
+  "description": "Create Lunar New Year greeting images with your own wishes written in the picture, over red lanterns, plum blossoms or the animal of the year, drawn with respect for the tradition.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "lunar new year images",
+    "chinese new year images",
+    "lunar new year wishes",
+    "happy lunar new year 2027",
+    "lunar new year card"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "valentine-photoshoot",
+  "displayName": "Valentine Photoshoot",
+  "version": "1.0.0",
+  "description": "Create Valentine's Day photos from your own photos in your MegaScenes library, of yourself or of the two of you: the same faces with roses and candlelight, on a rooftop at sunset or in Paris at night.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "valentines day photoshoot",
+    "valentine photoshoot ideas",
+    "couple valentine photoshoot",
+    "valentines day photos",
+    "couple photoshoot"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

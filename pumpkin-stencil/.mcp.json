@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-pumpkin-stencil": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/pumpkin-stencil/mcp"
+    }
+  }
+}

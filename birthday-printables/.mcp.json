@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-birthday-printables": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/birthday-printables/mcp"
+    }
+  }
+}

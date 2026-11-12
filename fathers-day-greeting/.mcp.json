@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-fathers-day-greeting": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/fathers-day-greeting/mcp"
+    }
+  }
+}

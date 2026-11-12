@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-santa-letter": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/santa-letter/mcp"
+    }
+  }
+}

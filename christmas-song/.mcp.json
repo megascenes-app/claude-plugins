@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-christmas-song": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/christmas-song/mcp"
+    }
+  }
+}

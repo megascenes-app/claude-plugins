@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-hanukkah-greeting": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/hanukkah-greeting/mcp"
+    }
+  }
+}

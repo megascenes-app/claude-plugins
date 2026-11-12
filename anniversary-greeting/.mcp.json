@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-anniversary-greeting": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/anniversary-greeting/mcp"
+    }
+  }
+}

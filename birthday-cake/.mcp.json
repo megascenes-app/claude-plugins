@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-birthday-cake": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/birthday-cake/mcp"
+    }
+  }
+}

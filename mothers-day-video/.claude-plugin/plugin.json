@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "mothers-day-video",
+  "displayName": "Mother's Day Video Maker",
+  "version": "1.0.0",
+  "description": "Make a short Mother's Day video with gentle music for your mom: a tender scene of flowers, a garden or a sunrise, with an optional line spoken in the video.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mothers day video",
+    "mothers day video maker",
+    "mothers day video message",
+    "mothers day video ideas",
+    "video for mom"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

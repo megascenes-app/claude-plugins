@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "anniversary-invitation",
+  "displayName": "Anniversary Party Invitations",
+  "version": "1.0.0",
+  "description": "Design invitations to a wedding anniversary party with the couple's names, the years together, the date and the place on them, from a silver 25th to a golden 50th.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "anniversary invitation",
+    "anniversary party invitation",
+    "50th anniversary invitation",
+    "25th anniversary invitation",
+    "wedding anniversary invitation"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "dog-photoshoot",
+  "displayName": "Dog Photoshoot",
+  "version": "1.0.0",
+  "description": "Give your dog a professional photoshoot from its photo in your MegaScenes library: a studio backdrop, an outfit, a season or a park at golden hour, keeping its breed and markings.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "dog photoshoot",
+    "dog portrait",
+    "dog photo ideas",
+    "professional dog photos",
+    "dog calendar photos"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

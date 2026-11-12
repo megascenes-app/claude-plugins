@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "christmas-photoshoot",
+  "displayName": "Christmas Photoshoot",
+  "version": "1.0.0",
+  "description": "Create Christmas photos of yourself from your own photo in your MegaScenes library: the same face by the tree, in the snow or in a cozy sweater.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "christmas photoshoot",
+    "christmas photo",
+    "christmas portrait",
+    "holiday photoshoot",
+    "christmas picture of me"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

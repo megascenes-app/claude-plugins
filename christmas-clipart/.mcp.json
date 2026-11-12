@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-christmas-clipart": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/christmas-clipart/mcp"
+    }
+  }
+}

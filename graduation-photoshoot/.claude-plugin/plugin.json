@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "graduation-photoshoot",
+  "displayName": "Graduation Photoshoot",
+  "version": "1.0.0",
+  "description": "Create graduation photos of yourself from your own selfie in your MegaScenes library: the same face in a cap and gown, on a campus lawn, tossing the cap or holding a diploma.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "graduation photoshoot",
+    "graduation photo ideas",
+    "graduation pictures",
+    "cap and gown photos",
+    "graduation photoshoot ideas"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

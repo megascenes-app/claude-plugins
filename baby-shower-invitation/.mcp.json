@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-baby-shower-invitation": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/baby-shower-invitation/mcp"
+    }
+  }
+}

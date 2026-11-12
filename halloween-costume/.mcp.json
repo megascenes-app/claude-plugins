@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-halloween-costume": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/halloween-costume/mcp"
+    }
+  }
+}

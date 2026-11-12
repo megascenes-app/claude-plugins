@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "fathers-day-greeting",
+  "displayName": "Father's Day Greeting Images",
+  "version": "1.0.0",
+  "description": "Create Happy Father's Day images with your own words written in the picture, ready to send to your dad or share on social media.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "happy fathers day images",
+    "fathers day images",
+    "fathers day wishes",
+    "fathers day pictures",
+    "fathers day greeting"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

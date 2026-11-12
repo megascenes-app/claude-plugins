@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "valentine-coloring",
+  "displayName": "Valentine Coloring Pages",
+  "version": "1.0.0",
+  "description": "Create printable Valentine's Day coloring pages with clean black outlines on white: hearts, roses, animals in love, love letters and mandalas, simple or detailed.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "valentine coloring pages",
+    "valentines day coloring pages",
+    "printable valentine coloring",
+    "heart coloring page",
+    "valentine coloring sheet"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}

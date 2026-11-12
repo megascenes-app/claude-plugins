@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "megascenes-valentine-card": {
+      "type": "http",
+      "url": "https://megascenes.com/api/claude/valentine-card/mcp"
+    }
+  }
+}

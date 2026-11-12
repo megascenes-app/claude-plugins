@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "wedding-photoshoot",
+  "displayName": "Wedding Photoshoot",
+  "version": "1.0.0",
+  "description": "Create pre-wedding and wedding photos of the two of you from your own photos in your MegaScenes library: the same faces on a beach at sunset, in a vineyard or in a city at night.",
+  "author": {
+    "name": "MegaScenes",
+    "url": "https://megascenes.com"
+  },
+  "homepage": "https://megascenes.com/connectors#claude",
+  "repository": "https://github.com/megascenes-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "wedding photoshoot",
+    "pre wedding photoshoot",
+    "engagement photos",
+    "couple photoshoot",
+    "save the date photo"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://megascenes.com/legal/privacy",
+  "termsOfServiceUrl": "https://megascenes.com/legal/terms",
+  "supportUrl": "https://megascenes.com/support",
+  "documentationUrl": "https://megascenes.com/connectors#claude"
+}
